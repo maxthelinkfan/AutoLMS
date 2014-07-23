@@ -1,0 +1,5 @@
+name:  AutoLMS
+version:  1.0
+main:  me.hydrations.Utils.Main
+commands:
+  lms:
